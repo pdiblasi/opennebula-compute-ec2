@@ -2,13 +2,13 @@
 *****************************************************
 Summary
 -------
-Generated at: 2016-01-14T14:42:16+01:00
+Generated at: 2016-01-15T10:06:27+01:00
 Notes: 0
 Binaries: 0
 Archives: 0
-Standards: 4
+Standards: 3
 
-Apache Licensed: 4
+Apache Licensed: 3
 Generated Documents: 0
 
 JavaDocs are generated and so license header is optional
@@ -31,7 +31,6 @@ Archives:
   Compressed archives will be marked A
   Notices, licenses etc will be marked N
   AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata.java
-  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2Api.java
   AL    pom (copia).xml
   AL    pom.xml
  

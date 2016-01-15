@@ -34,6 +34,10 @@ From: 'Google, Inc.' (http://www.google.com)
   - Google Guice - Extensions - AssistedInject (http://code.google.com/p/google-guice/extensions-parent/guice-assistedinject/) com.google.inject.extensions:guice-assistedinject:jar:3.0
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.2
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
 From: 'Sun Microsystems, Inc' (http://www.sun.com/)
   - jsr311-api (https://jsr311.dev.java.net) javax.ws.rs:jsr311-api:jar:1.1.1
     License: CDDL License  (http://www.opensource.org/licenses/cddl1.php)
@@ -48,6 +52,8 @@ From: 'The Apache Software Foundation' (http://www.apache.org/)
   - jclouds ec2 api (http://jclouds.apache.org/ec2/) org.apache.jclouds.api:ec2:bundle:2.0.0-SNAPSHOT
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - jclouds sts api (http://jclouds.apache.org/sts/) org.apache.jclouds.api:sts:bundle:2.0.0-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jclouds SLF4J Logging Module (http://jclouds.apache.org/jclouds-slf4j/) org.apache.jclouds.driver:jclouds-slf4j:bundle:2.0.0-SNAPSHOT
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 

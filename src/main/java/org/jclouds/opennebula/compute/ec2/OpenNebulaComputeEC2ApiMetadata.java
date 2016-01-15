@@ -20,8 +20,9 @@ import java.net.URI;
 import java.util.Properties;
 
 import org.jclouds.apis.ApiMetadata;
-import org.jclouds.ec2.EC2ApiMetadata;
+
 import org.jclouds.ec2.EC2Api;
+import org.jclouds.ec2.EC2ApiMetadata;
 import org.jclouds.ec2.compute.EC2ComputeServiceContext;
 import org.jclouds.ec2.compute.config.EC2ResolveImagesModule;
 import org.jclouds.ec2.compute.config.EC2ComputeServiceContextModule;
@@ -32,9 +33,10 @@ import com.google.auto.service.AutoService;
 import com.google.common.collect.ImmutableSet;
 import com.google.inject.Module;
 
+
 @AutoService(ApiMetadata.class)
 public final class OpenNebulaComputeEC2ApiMetadata extends BaseHttpApiMetadata<EC2Api> {
-
+    
    @Override
    public Builder toBuilder() {
       return new Builder().fromApiMetadata(this);
@@ -60,7 +62,7 @@ public final class OpenNebulaComputeEC2ApiMetadata extends BaseHttpApiMetadata<E
          .version("2016-01-13")
          .identityName("Access Key ID")
          .credentialName("Secret Access Key")
-         .defaultEndpoint("http://localhost:4567")
+         .defaultEndpoint("http://localhost:4567/")
          .documentation(URI.create("http://docs.amazonwebservices.com/AWSEC2/latest/APIReference"))
          .defaultProperties(OpenNebulaComputeEC2ApiMetadata.defaultProperties())
          .view(EC2ComputeServiceContext.class)

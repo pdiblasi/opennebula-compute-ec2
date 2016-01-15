@@ -1,4 +1,3 @@
 org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata$Builder.class
-org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2Api.class
 META-INF/services/org.jclouds.apis.ApiMetadata
 org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata.class
