@@ -28,18 +28,18 @@
   <groupId>org.apache.jclouds.api</groupId>
   <artifactId>opennebula-compute-ec2</artifactId>
   <name>jclouds opennebula-compute-ec2 api</name>
-  <description>EC2 interface to OpenStack Nova</description>
+  <description>EC2 interface to OpenNebula Compute</description>
   <packaging>bundle</packaging>
 
   <properties>
-    <test.opennebula-compute-ec2.endpoint>http://localhost:8773/services/Cloud</test.opennebula-compute-ec2.endpoint>
-    <test.opennebula-compute-ec2.api-version>2010-06-15</test.opennebula-compute-ec2.api-version>
+    <test.opennebula-compute-ec2.endpoint>http://localhost:4567</test.opennebula-compute-ec2.endpoint>
+    <test.opennebula-compute-ec2.api-version>2016-01-16</test.opennebula-compute-ec2.api-version>
     <test.opennebula-compute-ec2.build-version />
     <test.opennebula-compute-ec2.identity>FIXME_IDENTITY</test.opennebula-compute-ec2.identity>
     <test.opennebula-compute-ec2.credential>FIXME_CREDENTIAL</test.opennebula-compute-ec2.credential>
     <test.opennebula-compute-ec2.template />
     <test.opennebula-compute-ec2.ebs-template />
-    <jclouds.osgi.export>org.jclouds.openstack.nova.ec2*;version="${project.version}"</jclouds.osgi.export>
+    <jclouds.osgi.export>org.jclouds.opennebula.compute.ec2*;version="${project.version}"</jclouds.osgi.export>
     <jclouds.osgi.import>org.jclouds*;version="${project.version}",*</jclouds.osgi.import>
   </properties>
 
