@@ -2,13 +2,13 @@
 *****************************************************
 Summary
 -------
-Generated at: 2016-01-16T14:12:35+01:00
+Generated at: 2016-02-04T14:50:55+01:00
 Notes: 0
 Binaries: 0
 Archives: 0
-Standards: 3
+Standards: 11
 
-Apache Licensed: 3
+Apache Licensed: 11
 Generated Documents: 0
 
 JavaDocs are generated and so license header is optional
@@ -30,7 +30,15 @@ Archives:
   Binary files (which do not require AL headers) will be marked B
   Compressed archives will be marked A
   Notices, licenses etc will be marked N
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceAdapter.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/Region.java
   AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ProviderMetadata.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2Api.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2HttpApiModule.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/HostApi.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeService.java
+  AL    src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceContextModule.java
   AL    pom (copia).xml
   AL    pom.xml
  

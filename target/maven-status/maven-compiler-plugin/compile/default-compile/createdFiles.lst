@@ -1,3 +1,13 @@
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ProviderMetadata.class
+META-INF/services/org.jclouds.providers.ProviderMetadata
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2HttpApiModule.class
 org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata$Builder.class
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2Api.class
+org/jclouds/opennebula/compute/ec2/Region.class
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceContextModule.class
+org/jclouds/opennebula/compute/ec2/HostApi.class
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeService.class
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ProviderMetadata$Builder.class
+org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceAdapter.class
 META-INF/services/org.jclouds.apis.ApiMetadata
 org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata.class

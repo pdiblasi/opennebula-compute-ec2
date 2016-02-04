@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.1.1">
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceAdapter.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/Region.java">
+</file>
 <file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ProviderMetadata.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2Api.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2HttpApiModule.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/HostApi.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeService.java">
+</file>
+<file name="/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceContextModule.java">
 </file>
 </checkstyle>

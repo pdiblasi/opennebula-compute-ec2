@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1452949953157
+Bnd-LastModified: 1454593854979
 Build-Jdk: 1.8.0_65
 Built-By: paolo
 Bundle-Description: EC2 interface to OpenNebula Compute
@@ -11,23 +11,37 @@ Bundle-SymbolicName: opennebula-compute-ec2
 Bundle-Vendor: The Apache Software Foundation
 Bundle-Version: 2.0.0.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.jclouds.opennebula.compute.ec2;uses:="org.jclouds.ec
- 2.compute,org.jclouds.rest.internal,org.jclouds.ec2.compute.config,org.
- jclouds.apis,org.jclouds.apis.internal,com.google.common.collect,org.jc
- louds.ec2.config,com.google.common.base,org.jclouds.location.reference,
- org.jclouds.ec2,org.jclouds";version="2.0.0.SNAPSHOT"
+Export-Package: org.jclouds.opennebula.compute.ec2;uses:="javax.ws.rs,ja
+ vax.inject,org.jclouds.ec2,org.jclouds.ec2.compute,org.jclouds.rest.int
+ ernal,org.jclouds.ec2.compute.config,org.jclouds.apis,org.jclouds.apis.
+ internal,com.google.common.collect,org.jclouds.location.reference,com.g
+ oogle.inject.binder,org.jclouds.ec2.config,org.jclouds.providers,org.jc
+ louds.providers.internal,org.jclouds.compute.options,org.jclouds.domain
+ ,org.jclouds.compute,com.google.common.base,org.jclouds.scriptbuilder.d
+ omain,org.jclouds.compute.extensions,org.jclouds.compute.domain,com.goo
+ gle.common.util.concurrent,org.jclouds.compute.config,org.jclouds";vers
+ ion="2.0.0.SNAPSHOT"
 Implementation-Title: jclouds opennebula-compute-ec2 api
 Implementation-Vendor: jclouds
 Implementation-Vendor-Id: org.jclouds
 Implementation-Version: 2.0.0-SNAPSHOT
 Import-Package: com.google.common.base;version="[16.0,17)",com.google.co
- mmon.collect;version="[16.0,17)",org.jclouds;version="2.0.0.SNAPSHOT",o
- rg.jclouds.apis;version="2.0.0.SNAPSHOT",org.jclouds.apis.internal;vers
- ion="2.0.0.SNAPSHOT",org.jclouds.ec2;version="2.0.0.SNAPSHOT",org.jclou
- ds.ec2.compute;version="2.0.0.SNAPSHOT",org.jclouds.ec2.compute.config;
- version="2.0.0.SNAPSHOT",org.jclouds.ec2.config;version="2.0.0.SNAPSHOT
- ",org.jclouds.location.reference;version="2.0.0.SNAPSHOT",org.jclouds.r
- est.internal;version="2.0.0.SNAPSHOT"
+ mmon.collect;version="[16.0,17)",com.google.common.util.concurrent;vers
+ ion="[16.0,17)",com.google.inject.binder;version="[1.3,2)",javax.inject
+ ,javax.ws.rs;version="[1.1,2)",org.jclouds;version="2.0.0.SNAPSHOT",org
+ .jclouds.apis;version="2.0.0.SNAPSHOT",org.jclouds.apis.internal;versio
+ n="2.0.0.SNAPSHOT",org.jclouds.compute;version="2.0.0.SNAPSHOT",org.jcl
+ ouds.compute.config;version="2.0.0.SNAPSHOT",org.jclouds.compute.domain
+ ;version="2.0.0.SNAPSHOT",org.jclouds.compute.extensions;version="2.0.0
+ .SNAPSHOT",org.jclouds.compute.options;version="2.0.0.SNAPSHOT",org.jcl
+ ouds.domain;version="2.0.0.SNAPSHOT",org.jclouds.ec2;version="2.0.0.SNA
+ PSHOT",org.jclouds.ec2.compute;version="2.0.0.SNAPSHOT",org.jclouds.ec2
+ .compute.config;version="2.0.0.SNAPSHOT",org.jclouds.ec2.config;version
+ ="2.0.0.SNAPSHOT",org.jclouds.location.reference;version="2.0.0.SNAPSHO
+ T",org.jclouds.providers;version="2.0.0.SNAPSHOT",org.jclouds.providers
+ .internal;version="2.0.0.SNAPSHOT",org.jclouds.rest.internal;version="2
+ .0.0.SNAPSHOT",org.jclouds.scriptbuilder.domain;version="2.0.0.SNAPSHOT
+ "
 Specification-Title: jclouds jclouds opennebula-compute-ec2 api
 Specification-Vendor: jclouds
 Specification-Version: 2.0.0-SNAPSHOT

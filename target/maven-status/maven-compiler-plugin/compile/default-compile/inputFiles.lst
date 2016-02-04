@@ -1,1 +1,9 @@
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2HttpApiModule.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceContextModule.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeService.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/Region.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ProviderMetadata.java
 /home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2ApiMetadata.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeEC2Api.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/OpenNebulaComputeServiceAdapter.java
+/home/paolo/NetBeansProjects/opennebula-compute-ec2-master/src/main/java/org/jclouds/opennebula/compute/ec2/HostApi.java
