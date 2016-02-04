@@ -86,6 +86,6 @@ public final class OpenNebulaComputeEC2ApiMetadata extends BaseHttpApiMetadata<O
       @Override
       protected Builder self() {
          return this;
-      }
+      } 
    }
 }

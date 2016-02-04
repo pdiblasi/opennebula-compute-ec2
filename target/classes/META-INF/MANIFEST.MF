@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1454593854979
+Bnd-LastModified: 1454595602548
 Build-Jdk: 1.8.0_65
 Built-By: paolo
 Bundle-Description: EC2 interface to OpenNebula Compute

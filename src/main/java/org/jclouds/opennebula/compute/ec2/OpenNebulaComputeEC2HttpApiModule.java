@@ -27,7 +27,7 @@ public class OpenNebulaComputeEC2HttpApiModule extends BaseEC2HttpApiModule<Open
    public OpenNebulaComputeEC2HttpApiModule() {
       super(OpenNebulaComputeEC2Api.class);
    }
-   
+    
    @Override
    protected void configure() {
       bind(EC2Api.class).to(OpenNebulaComputeEC2Api.class);
